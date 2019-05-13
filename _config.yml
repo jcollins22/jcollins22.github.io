@@ -1,11 +1,11 @@
 # Site settings
 author: Justin Collins
-title: 
+title: Dabbling with Data
 header-img: img/home-bg.png
 email: justin.collins22@gmail.com
 copyright_name: Justin Collins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Dabbling with Data
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jcollins22
