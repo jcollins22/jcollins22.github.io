@@ -1,0 +1,19 @@
+---
+layout: post
+title:      "What's A Statistician To Do?"
+date:       2019-05-31 21:17:31 +0000
+permalink:  whats_a_statistician_to_do
+---
+
+
+
+For the last decade of my life I worked as a mathematical consultant on a verity of medical research projects. This included designing studies, creating databases, exploring data, carrying out general hypothesis testing and even dabbling in some predictive analytics. Little did I know at the time that what I was really doing was data science; I was just doing it the hard way. My only tools were SPSS and Microsoft Excel and most of the analysis was pretty standard. Occasionally there would be a problem that couldn’t be answered with the usual approaches. This is where I discovered machine learning. 
+
+I began applying rudimentary knowledge of machine learning to medical research problems with good success. Something I learned quickly in doing this was that data cleaning was everything. Fast forward to the current program I am in and our notes said, “70% of your time will be spent cleaning data.” This mantra held true and still the math does exactly what you think it will. The problem is that the math doesn’t know if the data is terrible. As someone working with the data, its our job to be the brain for the data. Though my job title was statistician or applied mathematics consultant, the tasks were the same—I was in data science.
+
+As I continued my academic career I continued in the direction of medicine, and even completed the first 2 years of medical school before realizing that my passion was for problem solving and data. I wanted to create data-driven decision support tools for physicians to use at the bedside to create a more personalized and better-informed standard of care. Why would I do this? Physicians are notoriously great at solving “fuzzy” problems. Diseases can present hundreds of different ways in different patients and yet be the exact same illness. Since physicians are humans, they are notoriously bad at remembering every lab value and finding hidden trends in data. Computers, however, are great at this, even though they do not often excel at fuzzy problems. By creating data-driven tools to provide physicians with numbers, trends and risk-assessments based on the numbers, they can better use the “fuzzy logic” that they are so well trained for to deliver the best of both worlds to the patient. In order to do this, I needed more training. I left medical school and enrolled in a data science boot camp.
+
+At first, python was the bane of my existence. Coding was not fun. Every command I would think to myself, I could do this faster in Excel or SPSS. But, such is the struggle of learning a new tool or a new skill. As I got more comfortable the data manipulation became easier and I could see the possibilities and the power of the new tools. I began to be able to understand the code I would read when researching ways to implement things I had designed as a statistician. This allowed me to see how more doors would be open once I finish my training and as I continue to learn more things even while working as a professional in the field. 
+
+Now that I am fully engrossed in the data science program, I see the possibilities, the direction things will go, what I will learn, and ultimately what skills I will have at the end. I see how I can augment my knowledge of mathematics, statistics and study design with the tools and understanding of a data scientist. This will allow me to answer the questions I was to find solutions for and give me the skills to build the solution into a useable deliverable for whatever client I have. In this way data science is fulfilling the desires and needs I have for a career while augmenting the skills I already possessed into a complete package. I am most excited for more formal training in deep learning and machine learning as this is the future of both big data analytics and medical analytics. 
+
