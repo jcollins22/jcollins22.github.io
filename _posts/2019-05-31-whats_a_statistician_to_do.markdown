@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What's A Statistician To Do?"
-date:       2019-05-31 21:17:31 +0000
+date:       2019-05-31 17:17:32 -0400
 permalink:  whats_a_statistician_to_do
 ---
 
